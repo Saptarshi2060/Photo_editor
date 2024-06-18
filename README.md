@@ -28,7 +28,7 @@ This Python application implements an advanced image editor GUI using tkinter. I
      ```
 
 2. **Execution**:
-   - Run the `image_editor.py` script.
+   - Run the `app.py` script.
    - Use the "Upload Image" button to load an image for editing.
 
 3. **Editing Features**:
