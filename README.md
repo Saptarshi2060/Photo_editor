@@ -49,9 +49,6 @@ This Python application implements an advanced image editor GUI using tkinter. I
 7. **Exiting**:
    - Close the application window to exit.
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
-
 ## Acknowledgments
 - Built using tkinter for GUI development.
 - Uses Pillow library for image processing capabilities.
