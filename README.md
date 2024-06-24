@@ -1,4 +1,4 @@
-# Advanced Image Editor
+# Advanced Image Editor.
 
 ## Overview
 This Python application implements an advanced image editor GUI using tkinter. It allows users to upload images, apply various filters and enhancements, perform image operations like crop and rotate, add text to images, and save/download the processed images.
